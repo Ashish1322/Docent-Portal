@@ -24,11 +24,10 @@ Doctent Portal is an online platform where doctors and patients can come togethe
 
 ## Screenshots
 
-![Doctent Portal Home](path-to-screenshot-1.png)
-*Description of the first screenshot*
+![Doctent Portal Home](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFsuD1SpY7y806HPJ1KgtN00P4Ulrxvan9fVOOdrb3pL0O_YHrqC7kA0Ge9l4ddEQKqnYWXQKVVKot5moXr7c92VRnH9J294EH0n1wyVZRkGlLeZLJqHNWochAkQjyNtEe2XDFojJBfunNsi00Aeiba5LF2eyHnu8PyTjgEb2n9eD7XeRNV5zy8rY8iA/s320/Screenshot%202025-01-23%20at%209.22.09%E2%80%AFPM.png)
 
 ![Doctor's Profile Page](path-to-screenshot-2.png)
-*Description of the second screenshot*
+
 
 ## Installation and Setup
 
@@ -65,7 +64,3 @@ Doctent Portal is an online platform where doctors and patients can come togethe
    nodemon
    ```
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/doctent-portal.git
